@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - [lucademenego99@gmail.com](mailto:lucademenego99@gmail.com)
 
-- 🔗 Connect with me on [Linkedin](www.linkedin.com/in/luca-de-menego)
+- 🔗 Connect with me on [Linkedin](https://linkedin.com/in/luca-de-menego)
 
 
 
