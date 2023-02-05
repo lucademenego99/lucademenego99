@@ -3,7 +3,7 @@
 
 - 🔭 As a personal project I'm currently working on [Interactive Code Playgrounds](https://github.com/lucademenego99/icp-bundle), an HTML slides system enhancing CS classes. A simple demo of the project is available [at this link](https://lucademenego99.github.io/icp-slides/)
 
-- 💻 I work at Thema Optical - some example projects I have been working on are [OSIX-Custom](https://apps.apple.com/it/app/o-six-custom/id1562997055) and [OSIX-Configurator](https://configurator.o-six.com/)
+- 💻 I work at Thema Optical - some example projects I have been developing are [OSIX-Custom](https://apps.apple.com/it/app/o-six-custom/id1562997055) and [OSIX-Configurator](https://configurator.o-six.com/)
 
 - 👨‍💻 More about me can be found at [my portfolio](https://lucademenego99.github.io/lucademenego/)
 
@@ -11,6 +11,8 @@
 
 - 🔗 Connect with me on [Linkedin](https://linkedin.com/in/luca-de-menego)
 
+
+<p align="center" style="margin-top: 3rem;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucademenego99&show_icons=true&locale=en" alt="lucademenego99" /></p>
 
 
 <h2>Skills 🔥 </h2>
@@ -60,5 +62,3 @@
     </div>
   </div>
 </div>
-
-<p align="center" style="margin-top: 3rem;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucademenego99&show_icons=true&locale=en" alt="lucademenego99" /></p>
